@@ -5,6 +5,8 @@ FeedbackFlow is a microservice-based Student Feedback and Rating System deployed
 
 System Architecture
 
+![Architecture Diagram](<Architecture Diagram.jpg>)
+
 The system is deployed using three Virtual Machines, each assigned a clear responsibility.
 
 High-levelflow:
